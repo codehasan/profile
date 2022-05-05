@@ -18,7 +18,7 @@
 
 ---
 ### &nbsp; About Me
-I am a computer science student in Bangladesh.
+I am a computer science student from Bangladesh.
 - I am learning more about Data Structures & Algorithms
 - In my free time, I solve problems on HackerRank and read tech articles
 - How to contact me <a href="https://t.me/ratulhasanrahat"><img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ratul-hasan-507129237"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
