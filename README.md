@@ -23,14 +23,14 @@ I am a computer science student from Bangladesh.
 - In my free time, I solve problems on HackerRank and read tech articles
 - How to contact me <a href="https://t.me/ratulhasanrahat"><img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ratul-hasan-507129237"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 ---
-### &nbsp; Languages I Know
+<!-- ### &nbsp; Languages I Know
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
----
+---   -->
 
 ### &nbsp; My Stats
 
