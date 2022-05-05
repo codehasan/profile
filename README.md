@@ -5,7 +5,7 @@
   <a href="https://www.hackerrank.com/ratul_hasan">
     <img src="https://img.shields.io/badge/HackerRank-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="Check out Ratul Hasan’s profile on LinkedIn https://www.linkedin.com/in/ratul-hasan-507129237">
+  <a href="https://www.linkedin.com/in/ratul-hasan-507129237">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/18252591/ratul-hasan?tab=profile">
@@ -21,11 +21,21 @@
 I am a computer science student in Bangladesh.
 - I am learning more about Data Structures & Algorithms
 - In my free time, I solve problems on HackerRank and read tech articles
-- How to contact me <a href="https://t.me/ratulhasanrahat"><img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=white"/></a>
+- How to contact me <a href="https://t.me/ratulhasanrahat"><img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ratul-hasan-507129237"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+---
+### &nbsp; Languages I Know
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+</div>
+
 ---
 
-<div align="center">
+### &nbsp; My Stats
+
+<div id="stats" align="center">
   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RatulHasanRahat)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ratulhasanrahat&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
