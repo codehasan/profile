@@ -33,7 +33,7 @@
 
 ---   -->
 
-### &nbsp; My Stats
+### ⚡&nbsp;My Stats
 
 <div id="stats" align="center">
 
