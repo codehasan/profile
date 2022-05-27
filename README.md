@@ -19,11 +19,11 @@
 
 ---
 -->
-### &nbsp; About Me
-I am a computer science student
+### 🚀&nbsp;About Me
+💻 I am a computer science student
 - I am learning more about Data Structures & Algorithms
-- In my free time, I solve problems on HackerRank and read tech articles
-- How to contact me  <a href="https://t.me/ratulhasanrahat"><img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ratul-hasan-507129237"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+- In my free time, I solve problems on <a href="https://www.hackerrank.com/ratul_hasan">HackerRank</a> and read tech articles
+- How to contact me&#8194;<a href="https://t.me/ratulhasanrahat"><img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ratul-hasan-507129237"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <!-- ### &nbsp; Languages I Know
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
