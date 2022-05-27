@@ -1,3 +1,4 @@
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" autoplay/>
 </div>
@@ -17,12 +18,12 @@
 </div>
 
 ---
+-->
 ### &nbsp; About Me
-I am a computer science student from Bangladesh.
+I am a computer science student
 - I am learning more about Data Structures & Algorithms
 - In my free time, I solve problems on HackerRank and read tech articles
-- How to contact me <a href="https://t.me/ratulhasanrahat"><img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ratul-hasan-507129237"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
----
+- How to contact me  <a href="https://t.me/ratulhasanrahat"><img src="https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ratul-hasan-507129237"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <!-- ### &nbsp; Languages I Know
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
