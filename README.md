@@ -18,7 +18,7 @@
 </div>
 
 ---
--->
+
 ### 🚀&nbsp;About Me
 💻 I am a computer science student
 - I am learning more about Data Structures & Algorithms
@@ -31,10 +31,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
----   -->
+---  
 
 ### ⚡&nbsp;My Stats
-
+-->
 <div id="stats" align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratul-hsan&show_icons=true&theme=vue-dark&hide_border=true)
