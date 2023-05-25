@@ -36,8 +36,8 @@
 ### ⚡&nbsp;My Stats
 -->
 <div id="stats-overall" align="center">
-  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ratsan&show_icons=true&theme=vue-dark&hide_border=false" border="0" />
+  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ratsan&show_icons=true&theme=react&hide_border=false" border="0" />
 </div>
 <div id="stats-contribution" align="center">
-  <a href="https://git.io/streak-stats"><img width="100%" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=ratsan&theme=vue-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" border="0" /></a>
+  <a href="https://git.io/streak-stats"><img width="50%" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=ratsan&theme=react&hide_border=false&date_format=j%20M%5B%20Y%5D" border="0" /></a>
 </div>
