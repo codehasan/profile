@@ -34,10 +34,10 @@
 ---  
 
 -->
-
+<!-- 
 <h1 align="left">
   <b>Stats</h>
-<h1>
+<h1> -->
 <div id="stats-overall" align="center">
   <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=ratsan&show_icons=true&theme=react&hide_border=false" border="0" />
 </div>
